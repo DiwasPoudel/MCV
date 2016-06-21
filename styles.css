@@ -1,0 +1,53 @@
+h1{
+	color:#000000;
+	margin: 0;
+	margin-left: 500px;
+}
+
+h2{
+	font-size: 100%;
+	margin: 0 0 40px 0;
+	margin-left: 500px;
+}
+
+h3{
+	background-color: #C0C0C0;
+	background-
+	margin-left: 0px;
+	font-size: 100%;
+}
+
+p{
+	margin: 0 0 40px 0;
+}
+
+u{
+	text-decoration-color: #0000FF;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    height: 50px;
+    vertical-align: bottom;
+}
+
+footer{
+	margin-left: 1100px;
+
+}
+
+button { 
+	background:none;
+	border:none; 
+	background-color: #C0C0C0;
+	margin-left: 0px;
+	font-size: 100%;
+}
